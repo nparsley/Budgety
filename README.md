@@ -10,9 +10,9 @@
 
 <img src='/images/budgety2.PNG'>
 
-* Income and expenses can be entered by adding a description and value
-* Each item entered for either income and expense will be displayed below, with the option to remove an individual item
+* Income and expenses can be entered by adding a description and value.
+* Each item entered for either income and expense will be displayed below, with the option to remove an individual item.
 
 <img src='/images/budgety3.PNG'>
 
-* The total available budget will be updated as an income or expense is added
+* The total available budget will be updated as an income or expense is added.
