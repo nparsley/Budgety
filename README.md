@@ -11,7 +11,7 @@
 <img src='/images/budgety2.PNG'>
 
 * Income and expenses can be entered by adding a description and value.
-* Each item entered for either income and expense will be displayed below, with the option to remove an individual item.
+* Each item entered for either income or expense will be displayed below, with the option to remove an individual item.
 
 <img src='/images/budgety3.PNG'>
 
